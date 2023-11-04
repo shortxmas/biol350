@@ -13,7 +13,7 @@ export const Navbar = ()=>{
             
                     
             <a className="nav-link" href="#flyer">
-                <img alt="" src={Logo} width="75" className="d-inline-block align-top"></img>
+                <img alt="https://icons.veryicon.com/png/o/education-technology/alibaba-cloud-iot-business-department/image-load-failed.png" src={Logo} width="75" className="d-inline-block align-top"></img>
             </a>
        
         
