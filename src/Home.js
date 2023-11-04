@@ -18,7 +18,7 @@ export const Home = () =>{
 
         <div  style={{display:'flex',justifyContent:'center',alignContent:'center',marginTop:50,marginBottom:125,}}>
           
-          <img alt="couldnt load image" src={Flyer} className="img-fluid"
+          <img alt="ff" src={Flyer} className="img-fluid"
           style={{ 
             width:'40%',
             border: '5px solid black',
@@ -29,7 +29,7 @@ export const Home = () =>{
           <hr id="condoms" ></hr>
         <div  style={{display:'flex',justifyContent:'center',alignContent:'center',marginTop:125,marginBottom:125}}>
           <a href="https://www.healthline.com/health/birth-control-condom">
-          <img src={HowTo} alt="couldnt load image" className="img-fluid"
+          <img src={HowTo} alt="ff" className="img-fluid"
           style={{ 
            
             border: '5px solid black',
@@ -41,7 +41,7 @@ export const Home = () =>{
         <hr id="consent" ></hr>
         <div  style={{display:'flex',justifyContent:'center',marginTop:125,marginBottom:125}}>
           <a href="https://www.dawsonwomensshelter.com/blog/consent-is-everything">
-          <img alt="couldnt load image" src={Consent} className="img-fluid"
+          <img alt="ff" src={Consent} className="img-fluid"
           style={{ 
             
            

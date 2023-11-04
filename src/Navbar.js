@@ -13,7 +13,7 @@ export const Navbar = ()=>{
             
                     
             <a className="nav-link" href="#flyer">
-                <img alt="couldnt load image" src={Logo} width="75" className="d-inline-block align-top"></img>
+                <img alt="ff" src={Logo} width="75" className="d-inline-block align-top"></img>
             </a>
        
         
