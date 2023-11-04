@@ -12,7 +12,7 @@ export const Navbar = ()=>{
             <a className="navbar-brand">
             
                     
-            <a className="nav-link" href="#flyer">
+            <a className="nav-link" href="/#flyer">
                 <img alt="ff" src={Logo} width="75" className="d-inline-block align-top"></img>
             </a>
        
@@ -36,11 +36,11 @@ export const Navbar = ()=>{
                     
                       
                         <li className="nav-item">
-                            <a href="#condoms" className="nav-link">Condoms</a>
+                            <a href="/#condoms" className="nav-link">Condoms</a>
                         </li>
 
                         <li className="nav-item">
-                            <a href="#consent" className="nav-link">Consent</a>
+                            <a href="/#consent" className="nav-link">Consent</a>
                         </li>
                     
                        
