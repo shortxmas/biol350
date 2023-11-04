@@ -52,7 +52,7 @@ export const Home = () =>{
         </div>
         <hr></hr>
         <div style={{display:'flex',justifyContent:'center',marginTop:20,marginBottom:20}}>
-          Made by : Gabrielle Huliganga, Leighton Miguel, Blake Ilagan
+          Made by : Gabrielle Huliganga, Leighton Miguel, Blake Ilagan, Kailey Nino
         </div>
 
 
