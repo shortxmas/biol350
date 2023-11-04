@@ -52,7 +52,7 @@ export const Navbar = ()=>{
 
                 <span className="navbar-text" style={{color:'mintcream'}}>
                     <h6>
-                    Don't be silly, wrap your willy!
+                    Don't be silly, protect your willy!
                     </h6>
                 </span>
         
